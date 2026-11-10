@@ -1,0 +1,4 @@
+organ,n,mean_observed_pool_kg_ha,mean_predicted_pool_kg_ha,observed_pool_share,absolute_error_share,squared_error_share,absolute_error_share_div_observed_pool_share,squared_error_share_div_observed_pool_share,pathway_RMSE_kg_ha,pathway_MAE_kg_ha,mean_signed_residual_kg_ha,concentration_term_RMSE_kg_ha,biomass_term_RMSE_kg_ha,concentration_term_absolute_share_within_path,biomass_term_absolute_share_within_path
+Leaf,54,4.630972627,4.65281465,0.079470518,0.105536457,0.02276218,1.327995085,0.286422948,1.389511863,1.017737042,-0.021842023,1.255371735,0.806375834,0.575125346,0.424874654
+Stem,54,3.139336639,3.138816698,0.053873069,0.135823226,0.046532907,2.521171123,0.863750801,1.986714324,1.309806414,0.000519941,1.766338271,1.183714533,0.668071227,0.331928773
+Grain,54,50.50252891,48.81284931,0.866656413,0.758640317,0.930704913,0.875364568,1.07390299,8.885079864,7.315920707,1.689679604,5.567019598,7.683384933,0.427378077,0.572621923
